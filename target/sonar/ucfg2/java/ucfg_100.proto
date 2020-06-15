@@ -1,0 +1,85 @@
+
+ccom.infosys.project.user.dto.SellerDTO#createEntity()Lcom/infosys/project/user/entity/SellerEntity;a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaE E(!"1*¥
+1a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaF F((»≈
+a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaF F(&2
+%0,com.infosys.project.user.entity.SellerEntity",com.infosys.project.user.entity.SellerEntity⁄
+◊
+a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaF F((
+%1"6com.infosys.project.user.entity.SellerEntity#<init>()V*4
+2
+%0,com.infosys.project.user.entity.SellerEntity⁄
+◊
+a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaF F()6
+seller,com.infosys.project.user.entity.SellerEntity"__id*4
+2
+%0,com.infosys.project.user.entity.SellerEntity˘ˆ
+a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaH H(
+%2java.lang.String"Bcom.infosys.project.user.dto.SellerDTO#getName()Ljava/lang/String;**(
+&com.infosys.project.user.dto.SellerDTO2	getName()Æ´
+a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaH H( 
+
+%3void"Icom.infosys.project.user.entity.SellerEntity#setName(Ljava/lang/String;)V*8
+6
+seller,com.infosys.project.user.entity.SellerEntity*
+
+%2java.lang.String2setName(Ljava/lang/String;)˚¯
+a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaI I(!
+%4java.lang.String"Ccom.infosys.project.user.dto.SellerDTO#getEmail()Ljava/lang/String;**(
+&com.infosys.project.user.dto.SellerDTO2
+getEmail()∞≠
+a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaI I("
+
+%5void"Jcom.infosys.project.user.entity.SellerEntity#setEmail(Ljava/lang/String;)V*8
+6
+seller,com.infosys.project.user.entity.SellerEntity*
+
+%4java.lang.String2setEmail(Ljava/lang/String;)Å˛
+a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaJ J('
+%6java.lang.String"Fcom.infosys.project.user.dto.SellerDTO#getPassword()Ljava/lang/String;**(
+&com.infosys.project.user.dto.SellerDTO2getPassword()∂≥
+a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaJ J((
+
+%7void"Mcom.infosys.project.user.entity.SellerEntity#setPassword(Ljava/lang/String;)V*8
+6
+seller,com.infosys.project.user.entity.SellerEntity*
+
+%6java.lang.String2setPassword(Ljava/lang/String;)áÑ
+a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaK K(-
+%8java.lang.String"Icom.infosys.project.user.dto.SellerDTO#getPhoneNumber()Ljava/lang/String;**(
+&com.infosys.project.user.dto.SellerDTO2getPhoneNumber()ºπ
+a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaK K(.
+
+%9void"Pcom.infosys.project.user.entity.SellerEntity#setPhoneNumber(Ljava/lang/String;)V*8
+6
+seller,com.infosys.project.user.entity.SellerEntity*
+
+%8java.lang.String2"setPhoneNumber(Ljava/lang/String;)ÑÅ
+a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaL L('
+%10java.lang.Boolean"Gcom.infosys.project.user.dto.SellerDTO#getIsActive()Ljava/lang/Boolean;**(
+&com.infosys.project.user.dto.SellerDTO2getIsActive()ª∏
+a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaL L((
+%11void"Ncom.infosys.project.user.entity.SellerEntity#setIsActive(Ljava/lang/Boolean;)V*8
+6
+seller,com.infosys.project.user.entity.SellerEntity*
+
+%10java.lang.Boolean2 setIsActive(Ljava/lang/Boolean;)"ù
+a
+WC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/SellerDTO.javaM M(8
+6
+seller,com.infosys.project.user.entity.SellerEntityB*(
+&com.infosys.project.user.dto.SellerDTO

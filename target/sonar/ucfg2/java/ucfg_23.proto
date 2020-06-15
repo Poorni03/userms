@@ -1,0 +1,40 @@
+
+fcom.infosys.project.user.controller.UserController#removeseller(Ljava/lang/Integer;)Ljava/lang/String;m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.java^ ^("1*ó
+
+1m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.java_ _(Ô
+Ñ
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.java_ _(
+%0org.slf4j.Logger"__id*B*@4
+2com.infosys.project.user.controller.UserController"
+loggerÏÌ
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.java_ _(A
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger**(
+&Request for order removal by seller {}*
+
+selleridjava.lang.Integer2*info(Ljava/lang/String;Ljava/lang/Object;)ù
+ö
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.java` `(4
+%2.com.infosys.project.user.service.SellerService"__id*I*G4
+2com.infosys.project.user.controller.UserController"
+sellerserviceÍÊ
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.java` `(&
+
+%3void"Qcom.infosys.project.user.service.SellerService#removeseller(Ljava/lang/Integer;)V*6
+4
+%2.com.infosys.project.user.service.SellerService*
+
+selleridjava.lang.Integer2!removeseller(Ljava/lang/Integer;)"‰
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaa a( 
+Deleted successfully:
+selleridjava.lang.IntegerB64
+2com.infosys.project.user.controller.UserController

@@ -1,0 +1,71 @@
+
+rcom.infosys.project.user.controller.UserController#order(Ljava/lang/Integer;Ljava/lang/Integer;)Ljava/lang/String;o
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaç ç("4*Ä
+2o
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaë ë(j"â
+o
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaí í( 
+Added successfully*á
+3o
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaë ë(Û
+
+o
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaë ë(1
+%2+org.springframework.web.client.RestTemplate"__id*D*B4
+2com.infosys.project.user.controller.UserController"
+
+templateæ
+ª
+o
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaë* ë(K
+%3java.lang.String"__concat*
+http://ORDERMS*
+/add/products/œ
+Ã
+o
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaë* ë(R
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+
+prodidjava.lang.Integer—
+Œ
+o
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaë* ë([
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+
+quantityjava.lang.IntegerÆ´
+o
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaë ë(i
+%6java.lang.String"Çorg.springframework.web.client.RestTemplate#getForObject(Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Object;)Ljava/lang/Object;*3
+1
+%2+org.springframework.web.client.RestTemplate*
+
+%5java.lang.String*
+""2DgetForObject(Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Object;)*
+2*û
+4o
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaè è(
+÷
+”
+o
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaè è(
+
+%0org.slf4j.Logger"__id*B*@4
+2com.infosys.project.user.controller.UserController"
+logger…∆
+o
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaè è(;
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger*$"
+ Add products to Order request {}*
+
+prodidjava.lang.Integer2*info(Ljava/lang/String;Ljava/lang/Object;)*
+3:
+prodidjava.lang.Integer:
+quantityjava.lang.IntegerB64
+2com.infosys.project.user.controller.UserController

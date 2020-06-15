@@ -1,0 +1,49 @@
+
+gcom.infosys.project.user.dto.WishListDTO#createEntity()Lcom/infosys/project/user/entity/WishListEntity;c
+YC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/WishListDTO.java  (,"1*»
+1c
+YC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/WishListDTO.java! (5ÎË
+c
+YC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/WishListDTO.java% (34
+%0.com.infosys.project.user.entity.WishListEntity".com.infosys.project.user.entity.WishListEntityà
+Ý
+c
+YC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/WishListDTO.java! (5
+%1"8com.infosys.project.user.entity.WishListEntity#<init>()V*6
+4
+%0.com.infosys.project.user.entity.WishListEntityâ
+ß
+c
+YC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/WishListDTO.java	 (6:
+wishlist.com.infosys.project.user.entity.WishListEntity"__id*6
+4
+%0.com.infosys.project.user.entity.WishListEntity‡„
+c
+YC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/WishListDTO.java    (1
+%2java.lang.Integer"Hcom.infosys.project.user.dto.WishListDTO#getBuyerid()Ljava/lang/Integer;*,*
+(com.infosys.project.user.dto.WishListDTO2getBuyerid()¿¼
+c
+YC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/WishListDTO.java   (2
+
+%3void"Ocom.infosys.project.user.entity.WishListEntity#setBuyerId(Ljava/lang/Integer;)V*<
+:
+wishlist.com.infosys.project.user.entity.WishListEntity*
+
+%2java.lang.Integer2setBuyerId(Ljava/lang/Integer;)…‚
+c
+YC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/WishListDTO.java! !(/
+%4java.lang.Integer"Gcom.infosys.project.user.dto.WishListDTO#getProdid()Ljava/lang/Integer;*,*
+(com.infosys.project.user.dto.WishListDTO2getProdid()½º
+c
+YC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/WishListDTO.java! !(0
+
+%5void"Ncom.infosys.project.user.entity.WishListEntity#setProdId(Ljava/lang/Integer;)V*<
+:
+wishlist.com.infosys.project.user.entity.WishListEntity*
+
+%4java.lang.Integer2setProdId(Ljava/lang/Integer;)"£
+c
+YC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/dto/WishListDTO.java" "(<
+:
+wishlist.com.infosys.project.user.entity.WishListEntityB,*
+(com.infosys.project.user.dto.WishListDTO

@@ -1,0 +1,102 @@
+
+ycom.infosys.project.user.controller.UserController#addtowishlist(Ljava/lang/Integer;Ljava/lang/String;)Ljava/lang/String;m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javag g("startingBlock*ü
+2m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javal
+ l("‡
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javal l(
+Added successfully*“
+startingBlockm
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javag g([á
+Þ
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javag: g(G
+%8"
+__annotate*86
+4org.springframework.web.bind.annotation.PathVariable*!
+
+productnamejava.lang.String©
+¦
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javagO g(Z
+productnamejava.lang.String"__annotation*
+
+%8*
+5*â
+3m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaj j(oÝ
+Ú
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaj j(o2
+prodDTO'com.infosys.project.user.dto.ProductDTO"__id*/
+-
+%5'com.infosys.project.user.dto.ProductDTO÷
+ô
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javak k(3
+%6-com.infosys.project.user.service.BuyerService"__id*H*F4
+2com.infosys.project.user.controller.UserController"
+buyerserviceŽ‹
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javak k(&
+
+%7void"gcom.infosys.project.user.service.BuyerService#addtowishlist(Lcom/infosys/project/user/dto/ProductDTO;)V*5
+3
+%6-com.infosys.project.user.service.BuyerService*4
+2
+prodDTO'com.infosys.project.user.dto.ProductDTO28addtowishlist(Lcom/infosys/project/user/dto/ProductDTO;)*
+2*È	
+4m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaj j(ñ
+î
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaj j(1
+%2+org.springframework.web.client.RestTemplate"__id*D*B4
+2com.infosys.project.user.controller.UserController"
+
+templateÄ
+Á
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaj, j(U
+%3java.lang.String"__concat*
+http://PRODUCTMS*
+/products/productid/Í
+Ê
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaj, j(\
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+
+prodidjava.lang.IntegerÃÀ
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javaj j(n-
+%5'com.infosys.project.user.dto.ProductDTO"‚org.springframework.web.client.RestTemplate#getForObject(Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Object;)Ljava/lang/Object;*3
+1
+%2+org.springframework.web.client.RestTemplate*
+
+%4java.lang.String*
+""2DgetForObject(Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Object;)*
+3*Ÿ
+5m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javai i(	Ô
+Ñ
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javai i(	
+%0org.slf4j.Logger"__id*B*@4
+2com.infosys.project.user.controller.UserController"
+loggerÎË
+m
+cC:/Users/Admin/Desktop/userms/src/main/java/com/infosys/project/user/controller/UserController.javai i(B
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger*'%
+#Add products to wishlist request {}*!
+
+productnamejava.lang.String2*info(Ljava/lang/String;Ljava/lang/Object;)*
+4:
+prodidjava.lang.Integer:
+productnamejava.lang.StringB64
+2com.infosys.project.user.controller.UserController

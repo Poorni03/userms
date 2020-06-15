@@ -1,0 +1,7 @@
+organization=poorni03
+projectKey=Poorni03_userms
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=Poorni03_userms
+ceTaskId=AXK2wFnx4fSif5zYC6VE
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXK2wFnx4fSif5zYC6VE
